@@ -1,0 +1,9 @@
+{
+  "tileSize": 16,
+  "tileset": "tileset.png",
+  "layers": {
+    "floor": [],
+    "furniture": []
+  },
+  "collisions": []
+}
