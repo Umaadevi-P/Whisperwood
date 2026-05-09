@@ -2,7 +2,7 @@
 
 > *A dark fantasy 2D adventure where you brave a living, cursed forest to fulfill a forgotten promise.*
 
-🎮 **[Play the game right here!](https://insert-your-link-here.com)** 🎮
+🎮 **[Play the game right here!](https://umaagamedev.itch.io/whisperwood)** 🎮
 
 ## 📖 The Story
 Armed with only a lantern and a sword, you must venture deep into the creeping shadows of Whisperwood. Your goal? To locate four lost Memory Fragments and restore the Forest Heart. 
